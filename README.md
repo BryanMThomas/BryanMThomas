@@ -16,7 +16,7 @@ Software Engineer at **Microsoft** (Redmond, WA). I build **AI / agent systems**
 
 #### 🤖 AI & agent systems
 
-- **Self-hosted multi-agent orchestration** — I run a fleet of specialized LLM agents (orchestration, finance, ops, projects, health) on AWS, coordinated through a local-first gateway with cron scheduling, MCP tooling, and OpenRouter model routing. Built on [`openclaw`](https://github.com/BryanMThomas/openclaw).
+- **Self-hosted multi-agent orchestration** — I run a fleet of specialized LLM agents (orchestration, finance, projects, health) on AWS: a local-first gateway with cron scheduling, MCP tooling, file-scoped access control, and OpenRouter model routing. → [**openclaw-skeleton**](https://github.com/BryanMThomas/openclaw-skeleton) is my sanitized reference architecture for it; built on [`openclaw`](https://github.com/BryanMThomas/openclaw).
 - **MCP servers** — my travel app *Trip Helm* exposes its planning engine as a [Model Context Protocol](https://modelcontextprotocol.io) server, so assistants like Claude can build and edit trips programmatically.
 
 #### 🚀 Products I've shipped
