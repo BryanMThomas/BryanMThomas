@@ -31,4 +31,5 @@ TypeScript · Next.js / React · Python · C# · Go · Node · Postgres / Supaba
 
 #### 📫 Connect
 
-🌐 [bryan-thomas.com](https://bryan-thomas.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bryan--thomas.com-0A0A0A?style=flat&logo=safari&logoColor=white)](https://bryan-thomas.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-m-thomas/)
